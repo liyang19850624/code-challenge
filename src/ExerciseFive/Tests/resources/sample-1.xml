@@ -1,0 +1,30 @@
+<propertyList date="2019-01-15-17:54:20" username="" password="">
+    <commercial modTime="2019-01-15-17:47:08" status="current">
+        <uniqueID>A0001</uniqueID>
+        <colA>valA</colA>
+        <colB>valB</colB>
+        <colC>valC</colC>
+        <colD>valD</colD>
+    </commercial>
+    <commercial modTime="2019-01-15-17:47:50" status="current">
+        <uniqueID>A0002</uniqueID>
+        <colA>valA</colA>
+        <colB>valB</colB>
+        <colC>valC</colC>
+        <colD>valD</colD>
+    </commercial>
+    <commercial modTime="2019-01-15-17:48:38" status="current">
+        <uniqueID>A0003</uniqueID>
+        <colA>valA</colA>
+        <colB>valB</colB>
+        <colC>valC</colC>
+        <colD>valD</colD>
+    </commercial>
+    <rental modTime="2019-01-15-17:50:59" status="current">
+        <uniqueID>A0004</uniqueID>
+        <colA>valA</colA>
+        <colB>valB</colB>
+        <colC>valC</colC>
+        <colD>valD</colD>
+    </rental>
+</propertyList>

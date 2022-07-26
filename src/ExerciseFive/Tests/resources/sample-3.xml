@@ -1,0 +1,44 @@
+<propertyList date="2019-01-15-17:54:20" username="" password="">
+    <rural modTime="2019-01-15-17:51:41" status="current">
+        <uniqueID>C0001</uniqueID>
+        <colA>valA</colA>
+        <colB>valB</colB>
+        <colC>valC</colC>
+        <colD>valD</colD>
+    </rural>
+    <business>
+        <uniqueID>C0002</uniqueID>
+        <colA>valA</colA>
+        <colB>valB</colB>
+        <colC>valC</colC>
+        <colD>valD</colD>
+    </business>
+    <business modTime="2019-01-15-17:52:53" status="current">
+        <uniqueID>C0003</uniqueID>
+        <colA>valA</colA>
+        <colB>valB</colB>
+        <colC>valC</colC>
+        <colD>valD</colD>
+    </business>
+    <business modTime="2019-01-15-17:53:37" status="current">
+        <uniqueID>C0004</uniqueID>
+        <colA>valA</colA>
+        <colB>valB</colB>
+        <colC>valC</colC>
+        <colD>valD</colD>
+    </business>
+    <holidayRental modTime="2019-01-15-17:54:13" status="current">
+        <uniqueID>C0005</uniqueID>
+        <colA>valA</colA>
+        <colB>valB</colB>
+        <colC>valC</colC>
+        <colD>valD</colD>
+    </holidayRental>
+    <residential modTime="2019-01-21-13:45:57" status="sold">
+        <uniqueID>C0006</uniqueID>
+        <colA>valA</colA>
+        <colB>valB</colB>
+        <colC>valC</colC>
+        <colD>valD</colD>
+    </residential>
+</propertyList>

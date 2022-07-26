@@ -1,0 +1,16 @@
+<propertyList date="2019-01-15-17:54:20" username="" password="">
+    <commercial modTime="2019-01-21-13:48:50" status="sold">
+        <uniqueID>B0001</uniqueID>
+        <colA>valA</colA>
+        <colB>valB</colB>
+        <colC>valC</colC>
+        <colD>valD</colD>
+    </commercial>
+    <holidayRental status="current" modTime="20150422T131910">
+        <uniqueID>B0002</uniqueID>
+        <colA>valA</colA>
+        <colB>valB</colB>
+        <colC>valC</colC>
+        <colD>valD</colD>
+    </holidayRental>
+</propertyList>
