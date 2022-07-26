@@ -21,7 +21,9 @@
     },
     "autoload-dev": {
         "psr-4": {
-            "CodeChallenge\\ExerciseOne\\Tests\\": "src/ExerciseOne/Tests/"
-       }
+            "CodeChallenge\\ExerciseOne\\Tests\\": "src/ExerciseOne/Tests/",
+            "CodeChallenge\\ExerciseTwo\\Tests\\": "src/ExerciseTwo/Tests/",
+       	    "CodeChallenge\\ExerciseThree\\Tests\\": "src/ExerciseThree/Tests/"
+	}
     }
 }
