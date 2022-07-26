@@ -1,0 +1,27 @@
+{
+    "name": "code-challenge/exe1_5",
+    "description": "This is package is used to read imported csv and return as array of Object",
+    "type": "library",
+    "require": {
+        "php": ">= 8.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.3.0"
+    },
+    "authors": [
+        {
+            "name": "Li Yang",
+            "email": "lyang519136000@hotmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "CodeChallenge\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "CodeChallenge\\ExerciseOne\\Tests\\": "src/ExerciseOne/Tests/"
+       }
+    }
+}
