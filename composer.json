@@ -24,7 +24,8 @@
             "CodeChallenge\\ExerciseOne\\Tests\\": "src/ExerciseOne/Tests/",
             "CodeChallenge\\ExerciseTwo\\Tests\\": "src/ExerciseTwo/Tests/",
        	    "CodeChallenge\\ExerciseThree\\Tests\\": "src/ExerciseThree/Tests/",
-	    "CodeChallenge\\ExerciseFour\\Tests\\": "src/ExerciseFour/Tests/"
+	    "CodeChallenge\\ExerciseFour\\Tests\\": "src/ExerciseFour/Tests/",
+	    "CodeChallenge\\ExerciseFive\\Tests\\": "src/ExerciseFive/Tests/"
 	}
     }
 }
